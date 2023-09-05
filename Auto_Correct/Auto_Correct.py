@@ -59,7 +59,7 @@ if st.button("Correct Spellings"):
 
         # Compare the original and corrected sentences
         if input_text == corrected_sentence:
-            st.write("Original and Corrected Sentences are the same.")
+            st.write("Sentence is correct.")
         else:
             st.write("Corrected Sentence:", corrected_sentence)
     else:
