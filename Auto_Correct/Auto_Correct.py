@@ -61,7 +61,7 @@ if st.button("Correct Spellings"):
         if input_text == corrected_sentence:
             st.write("Sentence is correct.")
         else:
-            st.write("Corrected Sentence:", corrected_sentence)
+            st.write("Suggested Sentence:", corrected_sentence)
     else:
         st.warning("Please enter a sentence.")
 
@@ -70,4 +70,4 @@ st.subheader("Example:")
 example_sentence = "This is an exampele senetnce with mstake."
 corrected_example = spell_correct_sentence(example_sentence)
 st.write("Original Sentence:", example_sentence)
-st.write("Corrected Sentence:", corrected_example)
+st.write("Suggested Sentence:", corrected_example)
