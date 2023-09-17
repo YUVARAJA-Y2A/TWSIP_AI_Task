@@ -1,0 +1,721 @@
+[12, 43]       
+Contact
+www.linkedin.com/in/parthvora27(LinkedIn)
+Top Skills
+AWS Solution Architecture 
+Amazon Dynamodb
+Amazon CloudWatch
+Certifications
+Web Design for Everybody: Basics
+of Web Development & Coding
+Specialization
+AWS Academy Graduate - AWS
+Academy Cloud Foundations
+ApScript
+AWS Partner: Accreditation
+(Business)
+AWS Partner: Accreditation
+(Technical)
+Publications
+Network Monitoring and System
+Diagnostic Suite
+Parth Vora
+AWS CLOUD ENGINEER | FULL STACK WEB DEVELOPER |
+CLOUD COMPUTING | AMAZON WEB SERVICES
+Mumbai, Maharashtra, India
+Summary
+"God is real, unless declared integer."
+Experience
+F13 Technologies
+Cloud Engineer 
+December 2021 - April 2022  (5 months)
+India
+Worked remotely as an Amazon Web Services Cloud Intern. 
+Acquired the following 6 accreditations:
+- AWS Cloud Practitioner Essentials
+- AWS Partner: Accreditation (Technical) 
+- AWS Partner: Foundations (Business)
+- AWS Partner: Cloud Economics Accreditation
+- AWS Partner: Foundations (Technical) (Digital)
+- AWS Partner: Accreditation (Business) (Digital)
+Learnt about the basics of Cloud Computing to building and deploying complex
+architectures using AWS!
+Swabhav Techlabs
+AWS CLOUD INTERN
+November 2021 - December 2021  (2 months)
+India
+• Part of AWS TEAM 
+• Created Serverless backend applications using AWS Lambda
+• Got hands-on experience on various AWS Services such as IAM , EC2 ,
+Lambda , Cloudwatch , API Gateway etc
+AICTE
+Cloud Cybersecurity 
+October 2021 - December 2021  (3 months)
+  Page 1 of 2   
+India
+Got to learn how to security works in different domains. Learnt how to prevent
+attacks being happened and how to tackle system under attack.
+Microsoft Learn Student Ambassadors KiiT
+Campus Ambassador
+June 2021 - August 2021  (3 months)
+India
+APSIT SKILLS
+Student Intern
+May 2020 - August 2020  (4 months)
+Thane, Maharashtra, India
+Apsit Internship.Had some great experience with focusing on basic and
+advanced concepts of technology and web development with some ideas of
+management , team quality and leadership.
+Education
+A. P. Shah Institute of Technology, Thane
+Bachelor of Engineering - BE   · (2018 - 2022)
+Somaiya Vidyavihar
+HSC, Junior College (Computer Science)  · (2016 - 2018)
+St. Pius X High School
+SSC, School  · (2006 - 2016)
+  Page 2 of 2
+[12, 39]       
+Contact
+www.linkedin.com/in/n33t3sh(LinkedIn)
+Top Skills
+C (Programming Language)
+C++
+Python (Programming Language)
+Certifications
+MERN STACK DEVELOPER
+Nitesh Raj Khanal
+Full Stack Developer | MERN STACK | Web & Mobile
+Kathmandu, Bāgmatī, Nepal
+Summary
+Digital Nomad.
+MERN Stack Developer | Web & Mobile
+Frontend: React, Redux, Next.js, Gatsby, Tailwind, Chakra UI 
+Backend: Node.js, GraphQL, Nest.js, PHP, Web Sockets/Socket.io. 
+Database: TypeORM MongoDB, PostgreSQL, MySQL 
+Mobile: React Native, Native Android w/ JAVA SW 
+Testing: Chai, Mocha Cloud Native: Docker 
+Other: GIT, VIM, FIGMA,JSON, VB.NET
+Experience
+AMNIL Technologies Pvt. Ltd.
+React Native Developer
+April 2022 - Present  (5 months)
+Kathmandu, Bāgmatī, Nepal
+Diagonal Technologies Pvt. Ltd.
+Software Engineer Internship
+November 2021 - March 2022  (5 months)
+Kathmandu, Bāgmatī, Nepal
+Ultra Group
+IT Manager
+April 2018 - November 2021  (3 years 8 months)
+Kathmandu
+Education
+Tribhuwan University
+Bachelor's degree, Computer Science  · (September 2017 - December 2022)
+  Page 1 of 1
+[250, 253]       
+Contact
+www.linkedin.com/in/madhu-
+sudan-kamat-959362121
+(LinkedIn)
+Top Skills
+PowerPoint
+Business Development
+Sales Madhu Sudan kamat
+Manager B2B Sales @ Ramesh Corp, B2B Visual Display
+Solutions Sales / Technical Head @ CG# Mechanical
+Engineer#MBA@Phoenix College Of Management!
+Nepal
+Summary
+Experienced Information Specialist with a demonstrated history
+of working in the consumer goods industry. Skilled in Microsoft
+Office, Sales, Communication, English, and Management. Strong
+information technology professional with a Master of Business
+Administration - MBA focused in Buiness and Enterpreneurship from
+Phoenix College Of Management. 
+Experience
+Ramesh Corp. Teledirect Pvt.Ltd
+Manager B2B Sales
+February 2022 - Present  (6 months)
+Kathmandu, Bāgmatī, Nepal
+Chaudhary Group (CG CorpGlobal)
+B2B LG Information Display Pre-Post Sales and Technical Engineer
+September 2016 - February 2022  (5 years 6 months)
+Kathmandu
+CGCorpGlobal
+3 years
+Deputy Manager (B2B Information Display Sales and Technical)
+January 2019 - September 2021  (2 years 9 months)
+Satungal
+Techno Sales of B2B Information Display
+LG Product Training Supervisor
+October 2018 - December 2020  (2 years 3 months)
+kathamandu
+LG consumer goods Product Training Supervisor for  Entire Nepal
+[24]7
+  Page 1 of 2   
+Advisor
+October 2010 - October 2012  (2 years 1 month)
+Bangalore 
+Managing Sales / Online / Offline  Sears and Capital One Credit Card
+department.
+Education
+Phoenix College Of Management
+Master of Business Administration - MBA, Buiness and
+Enterpreneurship  · (2019 - 2021)
+P.N.S.I.T
+B.E, Mechanical Engineering  · (2012 - 2016)
+Araniko +2 Science Program
++2, Mathematics and Science  · (2003 - 2005)
+Eden National Sec Boarding School
+S.L.C, S.L.C  · (2002 - 2003)
+  Page 2 of 2
+
+[194, 198]       
+Contact
+www.linkedin.com/in/vibek-
+lamichhane-b66914201  (LinkedIn)
+github.com/codevibek  (Other)
+Top Skills
+Go (Programming Language)
+Redis
+Docker Vibek lamichhane
+Full Stack Web Developer(MERN Nextjs Typescript Springboot) ||
+React Native, Web3 learner
+Bhaktapur
+Summary
+I'm a full stack developer web developer eager to learn and explore
+more.
+My github account: codevibek
+Experience
+CoPenned
+Full-stack Developer
+March 2022 - Present  (5 months)
+Melbourne,Australia
+Nepal Can Move
+Junior Software Developer
+July 2021 - March 2022  (9 months)
+Kathmandu, Bāgmatī, Nepal
+Techonologically Sophisticated Delivery Company
+Education
+SAMRIDDHI EDUCATIONAL INSTITUTE PRIVATE LIMITED
+Bachelor's degree, Computer Science  · (2017 - 2021)
+  Page 1 of 1
+
+[251, 258]       
+Contact
+www.linkedin.com/in/prawesh-
+yadav-9b8469122  (LinkedIn)
+Top Skills
+Microsoft Excel
+Research
+Robotics
+Languages
+punjabi  (Limited Working)
+Nepalese  (Full Professional)
+Maithili  (Native or Bilingual)
+Hindi  (Professional Working)
+English
+Deutsch(German)  (Elementary) PraWesh Yadav
+Business Development Engineer at Bosch Limited Nepal
+Kathmandu
+Summary
+As a tactical & business minded partnership with Sales professional
+broad consumer marketing background well versed in brand and
+passionate about audience & revenue growth.
+I have experience of driving a team of diverse perspectives towards
+a unified vision and I am quite passionate about finding a way to do
+all of this while helping people along the way!
+strong background spanning 3 years in directing high performance
+terms and applying strategic business planning to further revenue
+growth my practical ability in establishing long and short term
+strategy to boost customer satisfaction.
+Mechatronics Engineer- Electric vehicle (EV) enthusiast's, Business
+development,Tech, Robotics  Artificial intelligence, Metaverse, Sales
+& Marketing Consultant.
+Experience
+Bosch Limited Nepal 
+2 months
+Business Development Engineer
+June 2022 - Present  (2 months)
+Kathmandu, Bāgmatī, Nepal
+Business Development Engineer
+June 2022 - Present  (2 months)
+Kathmandu, Bāgmatī, Nepal
+IAENG
+Engineer
+December 2021 - Present  (8 months)
+Kathmandu, Bāgmatī, Nepal
+Continental Trading Enterprises Pvt. Ltd.
+Sales & Marketing Engineer (Otis Elevator Nepal)
+  Page 1 of 2   
+January 2021 - Present  (1 year 7 months)
+Kathmandu, Bāgmatī, Nepal
+Robotics Association of Nepal
+Engineer
+August 2020 - Present  (2 years)
+Kathmandu, Bāgmatī, Nepal
+Daikin Nepal
+Sales And Marketing Specialist
+August 2019 - December 2020  (1 year 5 months)
+Kathmandu Nepal 
+udaan.com
+Team Leader
+February 2019 - July 2019  (6 months)
+New Delhi Area, India
+Chandigarh University
+BE Mechatronics (Robotics) & Automation Engineering
+July 2015 - June 2019  (4 years)
+chandigarh university
+Education
+CHANDIGARH UNIVERSITY
+Bachelor of Engineering (B.Eng.), Mechatronics, Robotics, and Automation
+Engineering  · (2015 - 2019)
+  Page 2 of 2
+
+[12, 42]       
+Contact
+www.linkedin.com/in/mmcodevila(LinkedIn)
+Top Skills
+Cisco IOS
+VMware
+Roteadores Cisco
+Languages
+Português
+english
+Certifications
+Introduction to Cybersecurity
+NSE1
+NSE2
+Marcelo Maciel Codevila
+Information Security Analyst.
+Porto Alegre, Rio Grande do Sul, Brasil
+Summary
+Analista de Tecnologia da Informação com experiência de 12 anos
+na área.
+Hoje tenho foco em Administração de infraestrutura e rede TCP/IP.
+Dentre meus conhecimentos estão:
+Sistemas operacionais Família Windows server;
+Sistemas operacionais Linux (CentOS, Fedora Ubuntu e Oracle
+Linux (Red Hat));
+Ferramentas de monitoramento (Zabbix);
+Virtualização (VMware, VirtualBox e Hyper V);
+Configuração de ativos de rede (foco em cisco): VTP, Vlans,
+STP, Etherchannel(PAGP, LAGP), Redundância de gateway,  e
+Protocolos de Roteamento IGP e EGP;
+Conhecimentos em banco de dados (SQL server e Oracle);
+Conhecimento em linguagens de programação Python, C++ e Shell
+Script
+Minhas características pessoais são o bom humor, estou sempre
+pronto ajudar, gosto de trabalhar em equipe, tenho muita facilidade
+distribuir e agregar conhecimento.
+Experience
+Under Protection
+information security analyst
+September 2021 - Present (1 year)
+Porto Alegre, Rio Grande do Sul, Brazil
+Withdraw
+Telecom Infrastructure Analyst
+February 2020 - August 2021 (1 year 7 months)
+Porto Alegre, Rio Grande do Sul, Brazil
+Page 1 of 5
+Internal as Infrastructure Analyst in the infrastructure area and later
+as responsible for Telecom within the Operations area.
+Multiplatform Telecom Infrastructure Management:
+• Network asset management.
+• Data Link Management.
+• Endpoint Configuration Management.
+• Curatorship of the terminal park.
+Process Management and new technologies:
+• Prospecting for new technologies.
+• Homologation of new hardware suppliers.
+• Homologation of new functionalities and services.
+• Homologation of new link and connectivity providers.
+• Homologation of new technologies.
+• Design and optimization of processes for Telecom technicians.
+• Design and optimization of administrative processes related to Telecom.
+Technical support:
+• Technical support to operations and infrastructure teams.
+• Validation and preparation of technical documentation.
+• Expert-level support.
+• Crisis management.
+Telecom project management:
+• Telecom project management in partnership with PMO.
+• Project planning.
+• Elaboration of project documentation.
+• Schedule management.
+• Stakeholder management.
+RCX IT Experts
+Network Analyst II
+February 2019 - February 2020  (1 year 1 month)
+Porto Alegre and Region, Brazil
+Working with 3° at Saque e Pague in the infrastructure area.
+Multiplatform Telecom Infrastructure Management.
+• Network asset management.
+• Data Link Management.
+Page 2 of 5
+• Configuration Management.
+Process Management and new technologies:
+• Homologation of new hardware suppliers.
+• Homologation of new functionalities and services.
+• Homologation of new link and connectivity providers.
+Technical support to operations and infrastructure teams.
+• Technical support to operations and infrastructure teams.
+• Validation and preparation of technical documentation.
+Salux Informatization in Health
+Full IT Infrastructure Analyst
+July 2017 - February 2019 (1 year 8 months)
+Brazil
+Acting as a full infrastructure analyst, performance of the following
+activities:
+Installation, configuration and administration of Windows Server 2003 and
+later.
+Installation, configuration and administration of Linux Red Hat and derivatives.
+Installation, configuration and administration of Domain, Active Directory, DHCP.
+Service management: Firewall, Virtualization (VMware and Virtual Box),
+FTP, DHCP, DNS and VPN.
+Standardization of IT policies and their implementation.
+Supplier management and incident control.
+Management of all Salux IT infrastructure being responsible for
+any problem related to technology in the company.
+Also acting in the Management of continuous improvement of the company raising
+improvement needs in the IT sector, researching solutions and
+implementing them.
+CONTAX Inc.
+Information Technology Infrastructure Analyst
+July 2016 - April 2017 (10 months)
+Provided support to the infrastructure of Estádio Beira rio being responsible for:
+Maintenance of the CCTV system (Avigilon).
+Page 3 of 5
+Access control (Senior and Smart move system).
+Configuration, maintenance and installation and Wi-fi and Ethernet networks.
+Maintenance on Cisco line assets (Layer 2 and 3 switches and routers).
+Deployment, maintenance and configuration of link aggregation protocols
+(LACD and PAGP) and VTP and OSPF Dynamic Routing.
+Knowledge in Cisco Prime Infrastructure, LAN Management Solutions
+(LMS), Cisco Prime Network Control System (NCS) and Cisco Stadiumvision.
+Network monitoring using Zabbix.
+Maintenance VMware virtualized environments.
+Also performed configuration and maintenance on Windows servers
+2008 R2
+Maintaining AD and DHCP system.
+Hs consortium administrator
+Information Technology Support Assistant
+December 2014 - January 2016 (1 year 2 months)
+Two brothers
+Acted as a Junior Support Analyst, being responsible for:
+Performed the data maintenance of the database of the system of
+consortiums (Validation of data consistency, alteration and verification of
+data and maintenance and reporting).
+Maintenance of the Newcon Plus ERP system in the consortium area (Validation
+of Processes and analysis of availability)
+Management of IT incidents related to ERP Newcon and stores
+Consortium of the Herval Group.
+Homologation of New Versions of ERP Newcon.
+Assistance and training to internal users in the use of the
+consortia.
+dell
+Senior Information Technology Support Analyst
+October 2011 - October 2014 (3 years 1 month)
+south eldorado
+Acted as a Senior Support Analyst providing support to customers who
+made phone contact with Dell computers.
+Activities consisted of:
+Diagnosis of hardware defects.
+Client line software maintenance using access tools
+Education
+Faculdades SENAC 
+Computer Networks, Information Technology · (2020 - 2022)
+SENAI Visconde se Mauá
+technician in industrial informatics, Information Technology · (2003 - 2005)
+  Page 5 of 5
+[12, 44]       
+Contact
+www.linkedin.com/in/akhil-shah04(LinkedIn)
+Top Skills
+JAVA
+SQL
+C++
+Languages
+Hindi  (Full Professional)
+Gujarati  (Professional Working)
+Marathi  (Professional Working)
+English  (Full Professional)
+Kutchi  (Native or Bilingual)
+Certifications
+Hadoop Foundations - Level 1
+Big Data Foundations - Level 1
+Learn ORACLE 12C Complete
+Tutorials for Beginners to Expert
+Java Tutorial Course
+Hadoop Platform and Application
+Framework
+Honors-Awards
+Inspire Science Camp
+Secured First Position In School
+Hackathon
+Publications
+Blockchain Enabled Online-Voting
+System
+Akhil Shah
+Database Administrator at TIAA
+Mumbai, Maharashtra, India
+Summary
+I am an ambituous individual who is looking to broaden my career
+path.I love travelling, meeting new people, having an interaction with
+them.I am open to new challenges within any industry and am willing
+to work hard  to reach my goals. I enjoy contributing new ideas, I
+am self-motivated and an excellent team player. I work well under
+pressure and understands the importance of Time management.
+Experience
+TIAA
+2 years 1 month
+Database Administrator
+July 2021 - Present  (1 year 1 month)
+Mumbai, Maharashtra, India
+Trainee
+July 2020 - Present  (2 years 1 month)
+Mumbai, Maharashtra, India
+Support Oracle, MongoDB and Hadoop databases in a clustered multi-tiered
+environment. Day to day production support including checking daily logs,
+backup/recovery procedures, disaster recovery, periodic maintenance. Provide
+24/7 support for various database servers. Respond in a timely manner to all
+alerts. Assist related OCC groups in debugging production issues. 
+TIAA
+Intern
+June 2019 - August 2019  (3 months)
+Mumbai, Maharashtra, India
+Developed 2 Datastore Management Dashboard to help Production Services
+Team to manage incidents easily and effectively. Integrated the incidents and
+service requests of all the databases such as Oracle, Hadoop, SQL Server
+and MongoDB onto a single dashboard.
+MeraEMI.com
+  Page 1 of 2   
+Intern
+June 2018 - September 2018  (4 months)
+Mumbai Area, India
+- Ensure technical feasibility of UX/UI designs.
+- Creating and maintaing a documentation of the code.
+- Maintain the highest possible customer experience with manual testing.
+Centre for Teacher Accreditation (CENTA)
+Intern
+March 2018 - June 2018  (4 months)
+Maharashtra, India
+- Collect and analyze data.
+- Prepare materials for submission to granting schools and foundations.
+- Travel to field sites to collect and record data.
+- Attend meetings.
+- Prepare other articles, reports and presentations.
+Education
+Ramrao Adik Institute of Technology
+Bachelor of Engineering (B.E.), Information Technology  · (2016 - 2020)
+K J Somaiya College of Science & Commerce Vidyanagar
+Vidyavihar Mumbai 400 077
+HSC, Computer Science  · (2014 - 2016)
+Navodaya English High School
+SSC   · (2002 - 2014)
+  Page 2 of 2
+[8, 39]    Contact
+www.linkedin.com/in/ahsan-ullah(LinkedIn)
+Top Skills
+Operations Management
+Product Development
+New Business Development
+Ahsan Ullah
+Blockchain Developer | Tokenomics and P2E Consultant |
+Economics
+Toronto
+Experience
+Huobi Global
+Senior Director Product Development
+May 2022 - Present (3 months)
+Bank Roll Media
+Senior Vice President Strategy
+December 2021 - Present (8 months)
+Crypto.com
+Senior Strategy Consultant
+2021 - June 2022 (1 year)
+Amadeus Labs
+Director of Product Engineering
+2021 - 2022 (1 year)
+Mogo
+Senior Software Engineer
+2017 - 2021 (4 years)
+Cryptologic
+Software Engineer
+2013 - 2017 (4 years)
+Nortel Networks
+Senior Software Development Engineer
+2010 - 2012 (2 years)
+Microsoft
+Frontend Engineer
+2006 - 2010 (4 years)
+Vancouver, British Columbia, Canada
+Page 1 of 2
+Education
+Western University
+Master of Science - MS, Computer Science · (1994 - 1998)
+Massachusetts Institute of Technology
+Bachelor of Science - BS, Mathematics and Computer Science · (1981 - 1986)
+Page 2 of 2
+
+
+[496, 508]       
+Contact
+www.linkedin.com/in/bikash-gupta
+(LinkedIn)
+Top Skills
+python
+c
+C++
+Languages
+English  (Limited Working)
+Certifications
+Machine Learning Fundamentals
+with Python Track
+Machine Learning Engineering for
+Production (MLOps) Specialization
+Natural Language Processing in
+Python Track
+TensorFlow in Practice
+Specialization
+Introduction to Bash Scripting Bikash Gupta
+Python Developer, AI|ML|DL enthusiasts
+Kathmandu
+Summary
+I am currently an ML Engineer at Fuse Machines, Nepal.
+Experience
+Fusemachines(AI Fellowship)
+Teaching Assistant
+March 2022 - Present  (5 months)
+Kathmandu, Bāgmatī, Nepal
+Fusemachines
+Machine Learning Engineer
+December 2019 - Present  (2 years 8 months)
+Nepal
+BigOinfotech
+Mobile Application Developer
+June 2019 - January 2020  (8 months)
+Lalitpur District, Nepal
+Impact Lab and Innovation Ltd.
+Co-Founder
+January 2018 - December 2019  (2 years)
+Kathmandu, Nep
+This company is our startup project  build in Python(Django). In here, my role
+was to develop the backend, frontend and mobile app for our project.
+College of Information Technology and Engineering(CITE)
+College Lecturer
+April 2018 - August 2018  (5 months)
+Kathmandu, Bāgmatī, Nepal
+Education
+  Page 1 of 2   
+Tribhuvan University, IOE, Pulchowk Campus
+Bachelor of Engineering - BE, Computer Engineering  · (2013 - 2017)
+Shikshadeep Higher Secondary School, College Road, Biratnagar,
+Morang
+Intermediate, Science  · (2010 - 2012)
+Namuna Vidya Mandir, Madhumara, Biratnagar, Morang
+SLC(School Leaving Certificate)   · (2000 - 2010)
+  Page 2 of 2
+[394, 402]       
+Contact
+www.linkedin.com/in/nchalise
+(LinkedIn)
+Top Skills
+Java
+Hadoop
+Big Data
+Languages
+English  (Professional Working)
+Tamil  (Limited Working)
+Hindi  (Professional Working)
+Nepali  (Native or Bilingual)
+Certifications
+AWS Fundamentals
+Big Data Analysis with Scala and
+Spark
+Python for Everybody Narayan Chalise
+Big Data Solution Consultant | Solution Architect | Hadoop | Spark |
+AWS | Lecturer(Computer Science)
+Nepal
+Summary
+10+ years of experience in software development and 8+ years of
+experience in lecturing in various colleges in Kathmandu.
+-> Expertise in Software Engineering fundamentals and Big Data
+Technology.
+-> Proven ability to build high performance, secure, data-driven
+applications with quality code.
+-> Strong understanding of Java, Hadoop, Cascading, C++, J2EE,
+SQL, Oracle, and object-oriented development.
+-> Solid knowledge of concepts and procedures of common software
+development methodologies.
+-> Extensive experience with database design, algorithm
+development, source control, embedded systems, and multi-
+threaded software development environments.
+-> Design, develop and implement large scale enterprise level
+software systems.
+Experience
+Cedar Gate Technologies
+1 year 8 months
+Solution Architect
+January 2022 - Present  (7 months)
+Principal Engineer
+December 2020 - December 2021  (1 year 1 month)
+Deerwalk Inc.
+6 years 9 months
+Principal Engineer
+January 2020 - December 2020  (1 year)
+Senior Software Engineer
+  Page 1 of 3   
+January 2017 - December 2019  (3 years)
+Software Engineer
+April 2014 - December 2016  (2 years 9 months)
+Domain:: Health Care
+Technology:: Big Data
+Language:: Java
+Framework:: Hadoop, Cascading
+-> Knowledge of US Healthcare and HIPPA
+-> Working experience of Hadoop and ElasticSearch
+Deerwalk Institute of Technology
+Lecturer
+January 2015 - April 2020  (5 years 4 months)
+kathmandu
+Database Management System
+Database Administration
+Advance JAVA Programming
+Islington College Kathmandu
+Part Time Lecturer
+March 2019 - July 2019  (5 months)
+Data Warehouse and Big Data
+Amrit Campus
+Lecturer
+March 2016 - July 2018  (2 years 5 months)
+kathmandu
+Advance Database Management System
+Object Oriented Programming
+Advance Java Programming
+Software Engineering
+Design and Analysis of Algorithm
+Kathmandu Bernhardt College
+Part Time Lecturer
+January 2015 - January 2016  (1 year 1 month)
+Advance Java Programming
+Data Warehousing and Data Mining
+  Page 2 of 3   
+System Analysis and Design
+Kathford International College of Engineering & Management
+Part Time Lecturer
+May 2014 - December 2015  (1 year 8 months)
+kathmandu
+Advance Java Programming
+iconinfos
+software developer
+November 2011 - December 2013  (2 years 2 months)
+Technology:: JSP, Servlet
+FrameWork:: Struts
+Education
+Bharathiar University
+Master's degree, Computer Science  · (2008 - 2011)
+Amrit Campus
+Bachelor of Science (BSc), Computer Science  · (2004 - 2007)
+  Page 3 of 3
+

@@ -7,7 +7,7 @@ from spello.model import SpellCorrectionModel
 nlp = spacy.load("en_core_web_sm")
 
 # Define the model file path
-model_path = "./model/model.pkl"
+model_path = "model/model.pkl"
 
 # Initialize a spello spell correction model
 if os.path.exists(model_path):
@@ -26,7 +26,7 @@ else:
     # Save the trained model to a file
     spell_correction_model.save(model_path)
 
-# Function to correct a sentence
+    # Function to correct a sentence
 
 
 def spell_correct_sentence(sentence):
